@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325139057331",
+    "firebase_url": "https://athletetracking-859fc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "athletetracking-859fc",
+    "storage_bucket": "athletetracking-859fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325139057331:android:2d5921aceecae320bdfec6",
+        "android_client_info": {
+          "package_name": "com.example.athlete_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325139057331-s0oj2htu9d5v8qdbjo94nspf98trs151.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3idFveIHt2xfxsYUGzMRQdpipZRMZR7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325139057331-s0oj2htu9d5v8qdbjo94nspf98trs151.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
